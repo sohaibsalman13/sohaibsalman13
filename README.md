@@ -1,4 +1,4 @@
-# HI I'm Sohaib
+# Hi I'm Sohaib
 ### I'm a Data Science and Robotics student
 
 * Graduated from [Constructor University](https://constructor.university/) (Sept 2021 - May 2024)
