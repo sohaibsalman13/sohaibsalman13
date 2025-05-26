@@ -8,6 +8,7 @@
 * Lead at Google developers student club Jacobs (Aug 2022 - June 2024)
 
 ## Data Science/Analysis projects
+- [Sales & Revenue prediction model](https://github.com/sohaibsalman13/Sales-Revenue-Prediction-Model)
 - [Data Sentiment Analysis](https://github.com/sohaibsalman13/Data-Sentiment-Analysis)
 - [E-commerce Data Analysis](https://github.com/sohaibsalman13/E-commerce-Data-Analysis)
 - [Airflow Data Pipeline](https://github.com/sohaibsalman13/Airflow-Data-Pipeline)
