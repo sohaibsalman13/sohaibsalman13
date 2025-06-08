@@ -27,3 +27,6 @@
 - [Computer Vision through Intel RealSense](https://github.com/sohaibsalman13/Vision-through-Intel-RealSense-)
 - [Simulation RIS Project](https://github.com/sohaibsalman13/RIS-Project)
 
+## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibsalman13)](https://github.com/sohaibsalman13/github-readme-stats)
+
