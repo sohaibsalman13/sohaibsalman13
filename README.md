@@ -28,5 +28,5 @@
 - [Simulation RIS Project](https://github.com/sohaibsalman13/RIS-Project)
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibsalman13)](https://github.com/sohaibsalman13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibsalman13&layout=compact)](https://github.com/sohaibsalman13/github-readme-statslayout=compact)
 
