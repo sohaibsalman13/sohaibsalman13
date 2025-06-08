@@ -7,6 +7,12 @@
 * Research Assistant Data Science/ML at [Constructor University](https://constructor.university/) (June 2022 - Nov 2022)
 * Lead at Google developers student club Jacobs (Aug 2022 - June 2024)
 
+## Certifications
+- [Data Analyst Assosiate - DataCamp](https://www.datacamp.com/certificate/DAA0010931796099)
+- [Data Analysis with Python - Free CodeCamp](https://www.freecodecamp.org/certification/SB_13/data-analysis-with-python-v7)
+- [SQL (Advanced - HackerRank)](https://www.hackerrank.com/certificates/iframe/375b62724cc4)
+- [Continuous Integration and Continuous Delivery (CI/CD)](https://www.coursera.org/account/accomplishments/verify/WYTIG1O71KFU)
+
 ## Data Science/Analysis projects
 - [Sales & Revenue prediction model](https://github.com/sohaibsalman13/Sales-Revenue-Prediction-Model)
 - [Data Sentiment Analysis](https://github.com/sohaibsalman13/Data-Sentiment-Analysis)
