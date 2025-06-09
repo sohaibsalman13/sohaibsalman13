@@ -1,5 +1,4 @@
 # Hi I'm Sohaib
-### I'm a Data Science and Robotics student
 
 * Graduated from [Constructor University](https://constructor.university/) (Sept 2021 - May 2024)
 * Business Data Analyst at [Baywa r.e. AG](https://www.baywa-re.de/en/) (Sept 2023 - Aug 2024)
