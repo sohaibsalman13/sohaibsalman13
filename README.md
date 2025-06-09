@@ -13,11 +13,9 @@
 - [E-commerce Data Analysis](https://github.com/sohaibsalman13/E-commerce-Data-Analysis)
 
 
-## Machine Learning projects
+## Machine Learning/ Robotics projects
 - [ASL classification with CNN](https://github.com/sohaibsalman13/ASL-with-CNN)
 - [Computer Vision Object Detection](https://github.com/sohaibsalman13/Object-Detection)
-
-## Robotics projects
 - [Computer Vision through Intel RealSense](https://github.com/sohaibsalman13/Vision-through-Intel-RealSense-)
 - [Simulation RIS Project](https://github.com/sohaibsalman13/RIS-Project)
 
