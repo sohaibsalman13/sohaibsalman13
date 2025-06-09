@@ -8,9 +8,10 @@
 
 ## Data Science/Analysis projects
 - [Sales & Revenue prediction model](https://github.com/sohaibsalman13/Sales-Revenue-Prediction-Model)
+- [Airflow Data Pipeline](https://github.com/sohaibsalman13/Airflow-Data-Pipeline)
 - [Data Sentiment Analysis](https://github.com/sohaibsalman13/Data-Sentiment-Analysis)
 - [E-commerce Data Analysis](https://github.com/sohaibsalman13/E-commerce-Data-Analysis)
-- [Airflow Data Pipeline](https://github.com/sohaibsalman13/Airflow-Data-Pipeline)
+
 
 ## Machine Learning projects
 - [ASL classification with CNN](https://github.com/sohaibsalman13/ASL-with-CNN)
