@@ -16,7 +16,6 @@
 ## Machine Learning/ Robotics projects
 - [ASL classification with CNN](https://github.com/sohaibsalman13/ASL-with-CNN)
 - [Computer Vision Object Detection](https://github.com/sohaibsalman13/Object-Detection)
-- [Computer Vision through Intel RealSense](https://github.com/sohaibsalman13/Vision-through-Intel-RealSense-)
 - [Simulation RIS Project](https://github.com/sohaibsalman13/RIS-Project)
 
 ## Certifications
