@@ -25,5 +25,33 @@
 - [Continuous Integration and Continuous Delivery (CI/CD) - IBM](https://www.coursera.org/account/accomplishments/verify/WYTIG1O71KFU)
   
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibsalman13&layout=compact)](https://github.com/sohaibsalman13/github-readme-statslayout=compact)
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/sohaibsalman13/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibsalman13&layout=compact" width="500"/>
+      </a>
+    </td>
+    <td>
+      <p>
+        <img src="https://img.shields.io/badge/Python-blue?style=plastic&logo=Python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=plastic&logo=ApacheSpark&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=plastic&logo=ApacheAirflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=OpenCV&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=Streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power_BI-yellow?style=plastic&logo=PowerBI&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-orange?style=plastic&logo=AWS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Azure-blue?style=plastic&logo=Azure&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
