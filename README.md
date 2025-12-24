@@ -25,14 +25,12 @@
 - [SQL (Advanced) - HackerRank](https://www.hackerrank.com/certificates/iframe/375b62724cc4)
 - [Continuous Integration and Continuous Delivery (CI/CD) - IBM](https://www.coursera.org/account/accomplishments/verify/WYTIG1O71KFU)
   
-## Stats
 
+##
 <table>
   <tr>
     <td>
       <a href="https://github.com/sohaibsalman13/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibsalman13&layout=compact" width="500"/>
-      </a>
     </td>
     <td>
       <p>
