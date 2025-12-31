@@ -1,17 +1,16 @@
 # Hi I'm Sohaib :wave:
 
 * M.Sc. Data and Society at [Technical University of Munich (TUM)](https://www.tum.de/en/) (Oct 2025 - Present)
-* Graduated from [Constructor University](https://constructor.university/) (Sept 2021 - May 2024)
+* B.Sc. Robotics and Intelligent Systems at [Constructor University](https://constructor.university/) (Sept 2021 - May 2024)
+* RevOps Data Specialist at [Speexx](https://www.speexx.com/) (Sept 2025 - Present)
 * Business Data Analyst at [Baywa r.e. AG](https://www.baywa-re.de/en/) (Sept 2023 - Aug 2024)
 * Data Scientist at [Appinio GmbH](https://www.appinio.com/en/) (Aug 2022 - Dec 2022)
 * Research Assistant Data Science/ML at [Constructor University](https://constructor.university/) (June 2022 - Nov 2022)
-* Lead at Google developers student club Jacobs (Aug 2022 - June 2024)
 
 ## Data Science/Analysis projects :computer:
 - [Sales & Revenue Prediction App](https://github.com/sohaibsalman13/Sales-Revenue-Prediction-Model)
 - [Airflow Data Pipeline](https://github.com/sohaibsalman13/Airflow-Data-Pipeline)
 - [Data Sentiment Analysis](https://github.com/sohaibsalman13/Data-Sentiment-Analysis)
-
 
 
 ## Machine Learning/ Robotics projects :robot:
